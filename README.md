@@ -4,7 +4,7 @@ A professional color picker application with smooth animations, zoom capabilitie
 
 ## Features
 
-![Color Picker App Screenshot](result.png)
+![Color Picker App Screenshot](/result.png)
 
 ### 🎨 Color Picking
 
